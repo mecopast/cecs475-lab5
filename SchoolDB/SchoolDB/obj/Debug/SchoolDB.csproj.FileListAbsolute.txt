@@ -1,0 +1,11 @@
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.mdf
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB_log.ldf
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe.config
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.exe
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\SchoolDB.pdb
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.dll
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\bin\Debug\EntityFramework.xml
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csprojResolveAssemblyReference.cache
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.csproj.CoreCompileInputs.cache
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.exe
+c:\users\meghan\source\repos\SchoolDB\SchoolDB\obj\Debug\SchoolDB.pdb
